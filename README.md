@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&reversal=true&text=Dhruvi%Rana&fontSize=80&desc=Full-Stack%20developer&descAlign=70&descAlignY=65&animation=twinkling" align="center" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&reversal=true&text=Dhruvi%20Rana&fontSize=80&desc=Full-Stack%20developer&descAlign=70&descAlignY=65&animation=twinkling" align="center" width="100%" />
 <!--
 **DhruviRana567/DhruviRana567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
